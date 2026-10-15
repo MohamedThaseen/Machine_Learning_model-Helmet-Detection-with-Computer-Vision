@@ -119,4 +119,4 @@ jupyter notebook Project_Introduction_to_Computer_Vision_HelmNet.ipynb
 Python, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn.
 
 ## Author
-<Your Name>
+Mohamed Rifakath Ali A
